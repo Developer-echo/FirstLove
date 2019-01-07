@@ -4,3 +4,5 @@ FirstLove.Repository/obj/
 FirstLove.Web/bin
 FirstLove.Repository/bin
 FirstLove.Repository/bin/Debug/netcoreapp2.2/
+FirstLove.Service/bin
+FirstLove.Service/bin/Debug/netcoreapp2.2/
