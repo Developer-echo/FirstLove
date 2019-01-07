@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/echo/Documents/NetCoreDemo/FirstLove/FirstLove.Model/FirstLove.Model.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+/Users/echo/Documents/NetCoreDemo/FirstLove/FirstLove.Service/bin/Debug/netcoreapp2.2/FirstLove.Service.deps.json
+/Users/echo/Documents/NetCoreDemo/FirstLove/FirstLove.Service/bin/Debug/netcoreapp2.2/FirstLove.Service.dll
+/Users/echo/Documents/NetCoreDemo/FirstLove/FirstLove.Service/bin/Debug/netcoreapp2.2/FirstLove.Service.pdb
+/Users/echo/Documents/NetCoreDemo/FirstLove/FirstLove.Service/obj/Debug/netcoreapp2.2/FirstLove.Service.csprojAssemblyReference.cache
+/Users/echo/Documents/NetCoreDemo/FirstLove/FirstLove.Service/obj/Debug/netcoreapp2.2/FirstLove.Service.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/NetCoreDemo/FirstLove/FirstLove.Service/obj/Debug/netcoreapp2.2/FirstLove.Service.AssemblyInfoInputs.cache
+/Users/echo/Documents/NetCoreDemo/FirstLove/FirstLove.Service/obj/Debug/netcoreapp2.2/FirstLove.Service.AssemblyInfo.cs
+/Users/echo/Documents/NetCoreDemo/FirstLove/FirstLove.Service/obj/Debug/netcoreapp2.2/FirstLove.Service.dll
+/Users/echo/Documents/NetCoreDemo/FirstLove/FirstLove.Service/obj/Debug/netcoreapp2.2/FirstLove.Service.pdb
