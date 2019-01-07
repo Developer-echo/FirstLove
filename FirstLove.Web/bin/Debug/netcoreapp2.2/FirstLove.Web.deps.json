@@ -27,6 +27,7 @@
           "FirstLove.Repository": "1.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
+          "Microsoft.EntityFrameworkCore.Design": "2.2.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
           "Pomelo.EntityFrameworkCore.MySql": "2.1.4",
